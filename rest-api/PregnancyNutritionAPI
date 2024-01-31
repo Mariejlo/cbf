@@ -1,0 +1,29 @@
+// Creation user class(registers includes attributes like username, password, and other user-specific properties
+)
+package com.pregnancy.api;
+
+public class User {
+    private String username;
+    private String password;
+    private String email;
+    // User-specific properties
+
+    public User(String username, String password, String email)
+         this.username = username;
+         this.password = password;
+         // Add other properties as needed
+
+    // Getters and setters for attributes
+
+}
+
+
+// Creation FoodIntakeEntry class (attributes like date and list of meals)
+
+// Creation Meal class (attributes like meal name, nutrients, and portion size)
+
+// Creation NutritionCalculator class 
+
+// Creation DataStorage class
+
+// Custom Exceptions class (error scenarios) 
